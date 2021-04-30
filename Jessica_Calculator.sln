@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Jessica_Calculator", "Jessica_Calculator.vbproj", "{93B37817-CC0E-4A77-AB8E-6BDACB5C411E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B37817-CC0E-4A77-AB8E-6BDACB5C411E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B37817-CC0E-4A77-AB8E-6BDACB5C411E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B37817-CC0E-4A77-AB8E-6BDACB5C411E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B37817-CC0E-4A77-AB8E-6BDACB5C411E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BB0B398-E420-4179-AE21-440B08318679}
+	EndGlobalSection
+EndGlobal
